@@ -1,0 +1,2 @@
+# ProyectoGit
+Ventana de ventas
